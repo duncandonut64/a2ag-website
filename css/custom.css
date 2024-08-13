@@ -1,3 +1,11 @@
-.row {
+/* .row {
     max-width: 100%;
+} */
+
+#index-image-container {
+    background-color: #003e78;
+}
+
+#index-image {
+    max-height: 50vh;
 }
