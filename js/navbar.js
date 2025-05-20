@@ -26,6 +26,9 @@ $(document).ready(function() {
             <li class="nav-item">
               <a class="nav-link" href="./contribution.html">Contribute</a>
             </li>
+            <li class="nav-item">
+              <a class="nav-link" href="./contact.html">Contact Us</a>
+            </li>
           </form>
         </div>
       </div>
