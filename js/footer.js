@@ -31,7 +31,7 @@ $(document).ready(function() {
             <!-- <a href="/" class="d-flex align-items-center justify-content-center mb-3 link-body-emphasis text-decoration-none">
               <svg class="bi me-2" width="40" height="32"><use xlink:href="#bootstrap"></use></svg>
             </a> -->
-            
+
           </div>
           <div class="col mb-3 px-5">
             <h5>Other Links</h5>
@@ -46,7 +46,7 @@ $(document).ready(function() {
       <div class="row px-5">
         <hr>
         <p class="text-body-secondary">
-          Copyright © 2024 David Chen
+          Copyright © 2024 - 2026 David Chen
         </p>
       </div>
     </footer>
