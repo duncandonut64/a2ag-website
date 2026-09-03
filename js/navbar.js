@@ -12,7 +12,7 @@ $(document).ready(function() {
               <a class="nav-link" href="./index.html">Home</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="./schedule.html">Schedule</a>
+              <a class="nav-link" href="./schedule.html">Practice Schedule</a>
             </li>
             <li class="nav-item">
               <a class="nav-link" href="./tournaments.html">Tournaments</a>
